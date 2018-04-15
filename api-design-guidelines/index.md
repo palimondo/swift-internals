@@ -330,10 +330,8 @@ is printed.
   {{enddetail}}
 
 
-### Strive for Fluent Usage
-
 * **Prefer method and function names that make use sites form
-  grammatical English phrases.** 
+  English phrases.** 
   {:#methods-and-functions-read-as-phrases}
   
   {{expand}}
@@ -361,6 +359,8 @@ is printed.
     **options: [.inProcess], completionHandler: stopProgressBar**)
   ~~~
   {{enddetail}}
+
+### Strive for Fluent Usage
 
 * **Begin names of factory methods with “`make`”,**
   e.g. `x.makeIterator()`.
